@@ -1,6 +1,7 @@
 {
   "name": "treino",
   "version": "0.1.0",
+  "homepage": "helpacaba1.uh-app.com.br/",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
