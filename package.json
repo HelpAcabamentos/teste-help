@@ -1,7 +1,7 @@
 {
   "name": "treino",
   "version": "0.1.0",
-  "homepage": "http://helpacaba1.uh-app.com.br",
+  "homepage": "https://helpacabamentos.github.io/teste-help/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
